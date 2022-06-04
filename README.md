@@ -1,6 +1,8 @@
 # Caculadora com Kivy
 ### Interface Gráfica com Python usando Kivy.
 
+![demo](./utils/demo.png)
+
 Use uma env exclusiva para o projeto, para isso você precisa ter o pip, python3 e (virtualenv ou poetry ou pyenv) instalado em sua máquina, tendos, faça:
 
 **Usando Virtualenv No Linux**
@@ -23,4 +25,3 @@ poetry shell
 poetry add kivy
 ```
 
-![demo](./utils/demo.png)
