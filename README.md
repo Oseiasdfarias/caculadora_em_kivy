@@ -8,7 +8,6 @@ Use uma env exclusiva para o projeto, para isso você precisa ter o pip, python3
 virtualenv .venv
 source .venv/bin/activate
 pip install kivy
-
 ```
 
 **Usando Virtualenv No Windows**
@@ -16,14 +15,12 @@ pip install kivy
 virtualenv .venv
 .venv/Scripts/Activate
 pip install kivy
-
 ```
 
 **Usando o Poetry**
 ```
 poetry shell
 poetry add kivy
-
 ```
 
-
+![demo](./utils/demo.png)
