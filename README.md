@@ -1,5 +1,17 @@
-# Caculadora com Kivy
+# Projeto de uma Calculadora com Python
+
 ### Interface Gráfica com Python usando Kivy.
+
+Este projeto consiste na criação de uma calculadora utilizando Python, com o suporte das bibliotecas Kivy e NumPy. A calculadora oferece as seguintes funcionalidades:
+
+1. Operações básicas: soma, subtração, multiplicação e divisão
+2. Cálculo de raiz quadrada
+3. Cálculo de seno e cosseno
+4. Função para limpar a tela
+
+
+As bibliotecas Kivy e NumPy são utilizadas para criar uma interface gráfica interativa e para realizar cálculos matemáticos complexos de forma eficiente, respectivamente.
+
 
 ![demo](./utils/demo.png)
 
